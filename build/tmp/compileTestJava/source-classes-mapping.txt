@@ -1,0 +1,20 @@
+com/survivingcodingbootcamp/blog/integration/HttpRequestTest.java
+ com.survivingcodingbootcamp.blog.integration.HttpRequestTest
+com/survivingcodingbootcamp/blog/integration/SpringWebApplicationTest.java
+ com.survivingcodingbootcamp.blog.integration.SpringWebApplicationTest
+com/survivingcodingbootcamp/blog/storage/TopicStorageJpaImplTest.java
+ com.survivingcodingbootcamp.blog.storage.TopicStorageJpaImplTest
+com/survivingcodingbootcamp/blog/integration/BlogApplicationSmokeTests.java
+ com.survivingcodingbootcamp.blog.integration.BlogApplicationSmokeTests
+com/survivingcodingbootcamp/blog/storage/PostStorageJpaImplTest.java
+ com.survivingcodingbootcamp.blog.storage.PostStorageJpaImplTest
+com/survivingcodingbootcamp/blog/integration/WebMvcLayerTest.java
+ com.survivingcodingbootcamp.blog.integration.WebMvcLayerTest
+com/survivingcodingbootcamp/blog/controller/PostControllerTest.java
+ com.survivingcodingbootcamp.blog.controller.PostControllerTest
+com/survivingcodingbootcamp/blog/controller/TopicControllerTest.java
+ com.survivingcodingbootcamp.blog.controller.TopicControllerTest
+com/survivingcodingbootcamp/blog/controller/HomeControllerTest.java
+ com.survivingcodingbootcamp.blog.controller.HomeControllerTest
+com/survivingcodingbootcamp/blog/integration/JpaWiringTest.java
+ com.survivingcodingbootcamp.blog.integration.JpaWiringTest
